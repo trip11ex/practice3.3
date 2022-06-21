@@ -1,0 +1,34 @@
+{
+  "workers": [
+    {
+      "phoneNumber" : "89432259986",
+      "name" : "Maksim",
+      "sex" : "male"
+    },
+    {
+      "phoneNumber" : "89415428523",
+      "name" : "Elena",
+      "sex" : "female"
+    },
+    {
+      "phoneNumber" : "82565727895",
+      "name" : "Jenya",
+      "sex" : "unknown"
+    },
+    {
+      "phoneNumber" : "78788661234",
+      "name" : "Sasha",
+      "sex" : "unknown"
+    },
+    {
+      "phoneNumber" : "87346234567",
+      "name" : "Olga",
+      "sex" : "female"
+    },
+    {
+      "phoneNumber" : "89436360808",
+      "name" : "Nikolay",
+      "sex" : "male"
+    }
+  ]
+}
